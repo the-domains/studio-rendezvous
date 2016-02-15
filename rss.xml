@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Studio Rendezvous]]></title>
         <description><![CDATA[Studio Rendezvous]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studio-rendezvous/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 21:01:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 21:02:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studio-rendezvous/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Icertis Infographic]]></title>
             <description><![CDATA[<article><h1>Icertis Infographic</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45c93e2db9694b161d1ffe2c092cb06c815451e0.png"></article>]]></description>
-            <link>undefinede23e7706-f24d-4e29-9753-2d722ca4fe1b/index.html</link>
+            <link>https://thegrid.ai/studio-rendezvous/e23e7706-f24d-4e29-9753-2d722ca4fe1b/index.html</link>
             <guid isPermaLink="false">e23e7706-f24d-4e29-9753-2d722ca4fe1b</guid>
-            <pubDate>Mon, 15 Feb 2016 21:01:16 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 21:01:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
