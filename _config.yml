@@ -1,0 +1,14 @@
+layout_spectrum: 0.2046187
+color:
+  saturation: 0.9940923
+  brandStrength: 0.154062
+  lightness: 0.4194415
+  rhythmicContrast: 0.4205156
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.5429646
+name: Studio Rendezvous
