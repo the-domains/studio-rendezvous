@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Studio Rendezvous is it]]></title>
-        <description><![CDATA[Studio Rendezvous is it]]></description>
+        <title><![CDATA[Studio Rendezvous is testing to see if this works as advertised]]></title>
+        <description><![CDATA[Studio Rendezvous is testing to see if this works as advertised]]></description>
         <link>https://thegrid.ai/studio-rendezvous/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 21:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 21:10:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studio-rendezvous/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Icertis Infographic]]></title>
-            <description><![CDATA[<article><h1>Icertis Infographic</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17f403ef972368868da9d95d29d4f39589a11dab.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Icertis Infographic</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6d405159cac65743ab4f0de20e6bb5c843a00ec.png"></article>]]></description>
             <link>https://thegrid.ai/studio-rendezvous/e23e7706-f24d-4e29-9753-2d722ca4fe1b/index.html</link>
             <guid isPermaLink="false">e23e7706-f24d-4e29-9753-2d722ca4fe1b</guid>
-            <pubDate>Mon, 15 Feb 2016 21:04:49 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 21:10:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
